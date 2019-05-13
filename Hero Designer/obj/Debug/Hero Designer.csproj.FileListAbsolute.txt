@@ -1,0 +1,72 @@
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero Designer.csprojAssemblyReference.cache
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.DataView.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmAbout.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmAccolade.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmBusy.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmCalcOpt.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmColourSettings.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmCompare.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmCSV.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmData.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmDBEdit.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmDPSCalc.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmEditArchetype.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmEditPower.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmEditPowerset.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmEnhData.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmEnhEdit.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmEnhMiniPick.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmEntityEdit.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmEntityListing.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmExportColor.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmFloatingStats.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmForum.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmImport_Archetype.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmImport_EnhancementEffects.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmImport_Entities.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmImport_mod.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmImport_Power.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmImport_Powerset.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmImport_Recipe.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmImport_SalvageReq.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmImport_SetAssignments.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmImport_SetBonusAssignment.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmImportEffects.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmImportEnhSets.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmImportPowerLevels.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmIncarnate.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.FrmInputLevel.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmLoading.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmMain.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmMiniList.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmOptionListDlg.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmPowerBrowser.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmPowerEffect.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmPrint.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmReadme.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmRecipeEdit.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmRecipeViewer.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmSalvageEdit.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmSetEdit.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmSetFind.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmSetListing.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmSetViewer.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmStats.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmTotals.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmTweakMatching.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.frmZStatus.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero_Designer.Resources.resources
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero Designer.csproj.GenerateResource.cache
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero Designer.csproj.CoreCompileInputs.cache
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\bin\Debug\Hero Designer.exe.config
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\bin\Debug\Hero Designer.exe.manifest
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\bin\Debug\Hero Designer.application
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\bin\Debug\Hero Designer.exe
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\bin\Debug\Hero Designer.pdb
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\bin\Debug\Base.dll
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\bin\Debug\midsControls.dll
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero Designer.exe.manifest
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero Designer.application
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero Designer.csproj.CopyComplete
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero Designer.exe
+C:\Users\robin\Documents\SynthHeroDesigner\Hero Designer\obj\Debug\Hero Designer.pdb
